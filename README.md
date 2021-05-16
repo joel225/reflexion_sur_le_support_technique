@@ -14,6 +14,5 @@ Niveau 2 : L'intervenant peut diagnostiquer la panne (si le niveau 1 ne l’a pa
 Le niveau 3 est le prolongement du niveau 2 par un spécialiste du problème de référence.
 En général, les supports techniques ont un temps d’intervention limité correspondant à la philosophie de leur employeur. Le niveau de qualification aussi est variable selon les prestataires et l’orientation du help desk (Interne – Interne ou Externe – Externe)
 
-Le support technique est un métier à part entière où le sens du relationnel et la solidité des nerfs sont souvent mis à rude épreuve au moins autant que les compétences.
 
 https://www.techno-science.net/definition/10870.html
