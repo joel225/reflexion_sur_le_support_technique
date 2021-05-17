@@ -16,3 +16,6 @@ En général, les supports techniques ont un temps d’intervention limité corr
 
 
 https://www.techno-science.net/definition/10870.html
+
+
+On donne pas à boire à un cheval qui n'a pas soiffe
